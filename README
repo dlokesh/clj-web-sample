@@ -1,0 +1,3 @@
+# Sample Web Application in Clojure
+
+A very simple web application using compojure, hiccup & google app engine where user can store a single field and retrieve list of all saved entries.
